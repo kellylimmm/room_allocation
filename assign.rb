@@ -66,7 +66,7 @@ def get_dates(bookings)
       end
     end
 
-  return earliest_checkin, latest_checkin
+return earliest_checkin, latest_checkin
 
 end
 
